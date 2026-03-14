@@ -4,7 +4,8 @@
 <div align="center">
 
 <!-- Banner (use relative path if in repo /assets/banner.png) -->
-<img src="./banner.png" alt="Banner" style="max-width:1000px; width:100%;"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="auto" alt="banner" />
+</div>
 
 ### Hi! I'm Harshit  👋
 **Full Stack Developer** • **ML Engineer** • **Data Enthusiast**
